@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "35771054",
+      "name": "人工智能-copy",
+      "font_class": "rengongzhineng",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9447848",
+      "name": "空气炸",
+      "font_class": "kongqizha",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
       "icon_id": "1068463",
       "name": "2-空气滤芯",
       "font_class": "2kongqilvxin",

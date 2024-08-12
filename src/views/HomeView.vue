@@ -85,7 +85,15 @@
 
         <!-- AI预测告警 -->
         <div class="aibox">
-          <div class="title">AI预测告警</div>
+          <div class="title">
+          <span>
+                <i class="iconfont icon-rengongzhineng"></i>
+                </span>
+                <div class="name">AI预测告警</div>
+          </div>
+
+
+
           <div class="resttime">系统预测剩余寿命（飞行小时）</div>
           <div class="time">
             <div class="time1">
@@ -125,7 +133,7 @@
                 </span>
                 <div class="name">发动机</div>
                 </div>
-              <div class="number number1">5.63%</div>
+              <div class="number danger">5.63%</div>
             </div>
             <div class="time1">
               <div class="word">
@@ -1656,14 +1664,14 @@ const option = {
         }
 
         .img {
-          transform: translate(-140px, 350px);
+          transform: translate(-120px, 350px);
         }
       }
 
       .linechart {
         // background-color: blue;
         height: 300px;
-        transform: translate(20px, -170px);
+        transform: translate(30px, -170px);
       }
     }
 
@@ -1682,7 +1690,7 @@ const option = {
 ::v-deep .el-input.el-input--suffix {
   // 修改背景颜色、字体颜色、边框、宽高
   .el-input__inner {
-    background: #8ed1fd !important;
+    background: #0a213d !important;
     // border: 1px solid #4c78ff;
     color: #fff;
 
@@ -1716,6 +1724,9 @@ const option = {
       .aibox {
         //大标题
         .title {
+          display: flex;
+          // flex: 1;
+          justify-content: center;
           font-size: 22px;
           // letter-spacing: 2px;
           color: #8ed1fd;
@@ -1723,6 +1734,12 @@ const option = {
           font-weight: bold;
           // background-color: red;
           transform: translate(-60px, 10px);
+          .iconfont{
+                font-size: 30px;
+                color: #8ed1fd;
+                padding-bottom: 80px;
+                padding-right: 6px;
+          }
         }
 
         //剩余寿命的标题
@@ -1743,7 +1760,7 @@ const option = {
           height: 100px;
           width: 300px;
           // background-color: red;
-          transform: translate(-90px, 20px);
+          transform: translate(-40px, 20px);
           .time1 {
             color: #fff;
             font-size: 16px;
@@ -1779,7 +1796,12 @@ const option = {
               font-size: 19px;
               color: #f2d21f;
               font-weight: bold;
-          transform: translate(35px,0px)
+          transform: translate(5px,0px)
+
+            }
+
+            .danger{
+              color: #e72923;
 
             }
 
@@ -1797,7 +1819,7 @@ const option = {
           // height: 100px;
           font-weight: bold;
           // background-color: red;
-          transform: translate(-13px, 10px);
+          transform: translate(-63px, 10px);
         }
       }
 
@@ -1806,7 +1828,7 @@ const option = {
         width: 200px;
         height: 200px;
         // background-color: blue;
-        transform: translate(-50px,30px);
+        transform: translate(-10px,30px);
       }
     }
   }
