@@ -1,0 +1,37 @@
+{
+  "id": "4650131",
+  "name": "comac",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1068463",
+      "name": "2-空气滤芯",
+      "font_class": "2kongqilvxin",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "13592930",
+      "name": "mse 微服务引擎",
+      "font_class": "mseweifuwuyinqing",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "18557413",
+      "name": "起落架",
+      "font_class": "qilajia",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "29236651",
+      "name": "电源保障",
+      "font_class": "dianyuanbaozhang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

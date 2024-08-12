@@ -1,0 +1,11 @@
+Model Information:
+* title:	C919 B
+* source:	https://sketchfab.com/3d-models/c919-b-d7f372558e1c48fca54c145f2a491fc4
+* author:	juarturo (https://sketchfab.com/juarturo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "C919 B" (https://sketchfab.com/3d-models/c919-b-d7f372558e1c48fca54c145f2a491fc4) by juarturo (https://sketchfab.com/juarturo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
