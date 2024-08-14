@@ -433,14 +433,14 @@ export default {
                   color: function (params) {
                     var colorList = [
                       "#4e46da",
-                      "#f845f1",
-                      "#ad46f3",
-                      "#4777f5",
-                      "#44aff0",
-                      "#45dbf7",
-                      "#f07050",
-                      "#f69846",
-                      "#f6d54a",
+                      "#0472fb",
+                      "#10feff",
+                      "#0eefcb",
+                      "#01b3f3",
+                      "#88f689",
+                      "#eae267",
+                      // "#f69846",
+                      // "#f6d54a",
                     ];
                     return colorList[params.dataIndex % colorList.length];
                   },
