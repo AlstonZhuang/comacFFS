@@ -3,8 +3,8 @@
   <div id="main">
     <div class="head">
       <!-- 顶部标题 -->
-      <!-- <div class="dashboard-title">C919型机体损伤可视化态势感知平台</div> -->
-      <div class="dashboard-title">设备损伤可视化平台</div>
+      <div class="dashboard-title">C919型机体损伤可视化态势感知平台</div>
+      <!-- <div class="dashboard-title">设备损伤可视化平台</div> -->
     </div>
 
     <div class="title2">
@@ -1758,9 +1758,9 @@ const option = {
           display: flex;
           flex: 1;
           height: 100px;
-          width: 300px;
+          width: 340px;
           // background-color: red;
-          transform: translate(-40px, 20px);
+          transform: translate(-60px, 20px);
           .time1 {
             color: #fff;
             font-size: 16px;
@@ -1771,12 +1771,14 @@ const option = {
               flex:1;
               padding-bottom: 15px;
               padding-top: 5px;
+              padding-right: 10px;
+              width: 150px;
         
               .iconfont{
-                font-size: 33px;
+                font-size: 46px;
                 color: #8ed1fd;
                 padding-bottom: 80px;
-          // transform: translateY(90px)/
+          transform: translate(50px,0px);
               
                 // color: #4e46da;
 
@@ -1784,7 +1786,7 @@ const option = {
               }
               .name{
             // background-color: blue;
-            padding-top: 10px;
+            padding-top: 6px;
             padding-left: 3px;
             // height: 30px;
                 // color:#4e46da ;
@@ -1796,7 +1798,7 @@ const option = {
               font-size: 19px;
               color: #f2d21f;
               font-weight: bold;
-          transform: translate(5px,0px)
+          transform: translate(18px,-30px)
 
             }
 
