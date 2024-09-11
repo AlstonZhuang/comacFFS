@@ -103,7 +103,7 @@
                 </span>
                 <div class="name">发动机</div>
                 </div>
-              <div class="number number1">3000</div>
+              <div class="number number1">2689</div>
             </div>
             <div class="time1">
               <div class="word">
@@ -112,7 +112,7 @@
                 </span>
                 <div class="name">APU</div>
                 </div>
-              <div class="number number1">2000</div>
+              <div class="number number1">1642</div>
             </div>
             <div class="time1">
               <div class="word">
@@ -121,7 +121,7 @@
                 </span>
                 <div class="name">气源系统</div>
                 </div>
-              <div class="number number1">4000</div>
+              <div class="number number1">986</div>
             </div>
           </div>
           <div class="risk">系统预测运行风险</div>
